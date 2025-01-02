@@ -3,9 +3,9 @@
 ## Hi there, welcome to my GitHub. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px">
 
 
-I'm a frontend developer who enjoys building web applications using modern JS technologies and frameworks. 🚀
+I'm a frontend developer who enjoys building web applications using modern technologies and frameworks. 🚀
 
-As my journey to become a senior developer and full stack engineer, I'm slowly but gradually expanding my knowledge to the backend side of web applications as well as deployment and cloud architectures.
+As my journey to become a full-stack engineer, I'm gradually expanding my knowledge to the backend side of web applications as well as DevOps and cloud architectures.
 
 
 ### Contact me
