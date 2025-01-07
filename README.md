@@ -41,7 +41,6 @@ As my journey to become a full-stack engineer, I'm gradually expanding my knowle
   <img alt="SASS" src="https://img.shields.io/badge/Sass-181717?logo=sass&logoColor=CC6699&style=flat-squre" />
   <img alt="CPlusPlus" src="https://img.shields.io/badge/C%2B%2B-181717?logo=c%2B%2B&logoColor=00599C&style=flat-squre" />
   <img alt="CSharp" src="https://img.shields.io/badge/C%23-181717?logo=csharp&logoColor=239120&style=flat-squre" />
-  <img alt="Java" src="https://img.shields.io/badge/Java-181717?logo=java&logoColor=E61F23&style=flat-squre" />
   <img alt="PHP" src="https://img.shields.io/badge/PHP-181717?logo=php&logoColor=777BB4&style=flat-squre" />
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-181717?logo=mysql&logoColor=00758F&style=flat-squre" />
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-181717?logo=mongodb&logoColor=47A248&style=flat-squre" />
