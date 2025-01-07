@@ -61,7 +61,7 @@ As my journey to become a full-stack engineer, I'm gradually expanding my knowle
 <br>
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devjhom&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devjhom&layout=compact&theme=dark)
 
 <!--### GitHub stats 📈
 
