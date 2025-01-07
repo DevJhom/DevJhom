@@ -61,12 +61,15 @@ As my journey to become a full-stack engineer, I'm gradually expanding my knowle
 <br>
 <br>
 
-### GitHub stats 📈
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devjhom&layout=compact)
+
+<!--### GitHub stats 📈
 
 <span> 
   <img src="https://github-readme-stats.vercel.app/api?username=devjhom&show_icons=true&count_private=true&theme=codeSTACKr"/>
 </span>
 
+ -->
 
 <!--
 **DevJhom/DevJhom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
