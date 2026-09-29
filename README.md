@@ -62,7 +62,8 @@ I'm also diving deeper into system design, cloud architecture, CI/CD and other s
 <br>
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devjhom&layout=compact&theme=dark)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devjhom&layout=compact&theme=dark) -->
+![Top Langs](./profile/top-langs.svg)
 
 <!--### GitHub stats 📈
 
